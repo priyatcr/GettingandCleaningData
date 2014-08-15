@@ -1,7 +1,7 @@
 Course Project of Getting and Cleaning Data course
 --------------------------------------------------
 In this document, the process of creating a tidy data set with the required fields as outlined in the project description is explained. The data was downloaded and unzipped in the working directory. The files used in the project are X train.txt, X test.txt, y test.txt, y train.txt, activity labels.txt, subject test.txt, subject train.txt. Readme.txt, features.txt, features info.txt, activity labels.txt were also used as reference. Below are the steps that were carried out:
---
+
 1. Read in X train, X test, y train, y test, subject train, subject test files into R using read.table. 
 2. Using cbind, merge subject train, y train, and x train data frames to get the training set data in place.
 3. Using cbind, merge subject test, y test, and y train data frames to get the testing set data in place.
