@@ -13,3 +13,5 @@ In this document, the process of creating a tidy data set with the required fiel
 9. Using the ddply function in the plyr package, average of each variable in the extracted data set was calculated for each subject and activity. This resulted in 180 observations for the 76 variables (mean and standard deviation measurements).
 10. The tidy data set was stored in the tidydf data frame
 11. The tidydf data frame was written out to a txt file using write.table command
+
+The tidydataset.txt file can be read with excel (Data tab->From Text and follow the prompts or read.table with sep="\t" can be used to read in the .txt file
