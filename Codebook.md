@@ -136,7 +136,7 @@ This code book explains the variables in the tidy data set which are average of 
 
 68.AvgFFTBodyBodyAccelerationJerkMagnitudemean:Average of the mean of fast fourier transform of body acceleration Jerk magnitude
 
-69. AvgFFTBodyBodyAccelerationJerkMagnitudeStddev:Average of the standard deviation of fast fourier transform of body acceleration Jerk magnitude
+69.AvgFFTBodyBodyAccelerationJerkMagnitudeStddev:Average of the standard deviation of fast fourier transform of body acceleration Jerk magnitude
 
 70.AvgFFTBodyGyroMagmean: Average of the mean of fast fourier transform of body angular velocity magnitude
 
