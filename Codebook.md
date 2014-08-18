@@ -1,4 +1,8 @@
-This code book explains the variables in the tidy data set which are average of either mean or standard deviation of measurements in the merged training and testing dataset. The first entry is the variable name and the second entry indicates the type of the variable and an explanation of the variable.Except for the activity variable, all of the other variables are of type numeric.The Activity variable is of type 'character'
+The data for this project came from experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
+
+This code book explains the variables in the tidy data set which are average of either mean or standard deviation of measurements in the merged training and testing dataset. The variables indicating mean and standard deviation of measurements were first extracted. Then these variables were transformed into averages using mean.
+
+The first entry is the variable name and the second entry indicates the type of the variable and an explanation of the variable.Except for the activity variable, all of the other variables are of type numeric.The Activity variable is of type 'character'
 
 1. Subject: indicates subject, ranges from 1-30
 
